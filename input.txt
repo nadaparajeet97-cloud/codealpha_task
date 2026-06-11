@@ -1,0 +1,3 @@
+Contact us at support@example.com
+For sales: sales@company.com
+Personal email: john.doe123@gmail.com

@@ -1,0 +1,4 @@
+----- Portfolio Summary -----
+AAPL: 1 shares × $180 = $180
+
+Total Investment Value = $180
